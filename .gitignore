@@ -1,0 +1,7 @@
+# Add files/foldrs to ignore
+[Bb]in/
+[Oo]bj/
+![Bb]in/Designs/*
+.vs
+*.suo
+*.user
